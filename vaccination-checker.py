@@ -38,6 +38,8 @@ THRESHOLD = 10
 # - Nezaradený
 # Set regions you want notification to be sent if free slots available
 REGIONS = ['Bratislavský', 'Nezaradený']
+# In case you want to receive mail notifications set to True
+NOTIFICATIONS = False
 
 
 def send_notifications(regions):
@@ -158,9 +160,8 @@ def main():
                 # Only sent notfication when watched regions have some free slots
                 if regions_available.keys() & REGIONS:
                     for k, v in regions_available.items():
-                        if k in REGIONS and v >= THRESHOLD:
-                            # send_notifications(regions_available)
-                            pass
+                        if k in REGIONS and v >= THRESHOLD and NOTIFICATIONS:
+                            send_notifications(regions_available)
             else:
                 print('[I] No free slots available =>',
                         ''[:-1].join(f'{key}: {val}, ' for key, val in regions.items())[:-2]) # noqa
