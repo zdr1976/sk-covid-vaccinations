@@ -20,11 +20,16 @@ $ pip install requests
 ```
 
 ## Run checker
-As the script is reading `smtp_username` and `smpt_password` from ENV variables you need to export them
+The script is reading `SMTP_USER` and `SMTP_PASSWORD` environments variables if `NOTIFICATIONS` is enabled so you need to export both
 ```bash
 $  export SMTP_USER="username"
 $  export SMTP_PASSWORD="password"
 $ python3 vaccination-checker.py
 ```
-
 > Mind the extra space before export command (skipping bash history)
+
+If you are fine with console messages and don't need to by notified via mail
+```bash
+$ python3 vaccination-checker.py
+```
+> This is the default behaviour
