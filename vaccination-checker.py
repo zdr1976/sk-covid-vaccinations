@@ -94,12 +94,12 @@ def send_notifications(regions):
 def main():
     """Get free slots from vaccination centers."""
     # Check SMTP username
-    if not SMTP_USERNAME:
+    if not SMTP_USERNAME and NOTIFICATIONS:
         print("Can't find 'SMTP_USERNAME' in ENV variables.")
         sys.exit(os.EX_USAGE)
 
     # Check SMTP password
-    if not SMTP_PASSWORD:
+    if not SMTP_PASSWORD and NOTIFICATIONS:
         print("Can't find 'SMTP_PASSWORD' in ENV variables.")
         sys.exit(os.EX_USAGE)
 
