@@ -6,6 +6,7 @@ import sys
 import time
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from json.decoder import JSONDecodeError
 
 import requests
 
@@ -116,7 +117,7 @@ def main():
             notify_and_log = False
             try:
                 data = response.json()
-            except json.decoder.JSONDecodeError as e:
+            except JSONDecodeError as e:
                 print(f'[E] JSON parsing error: {e}')
                 time.sleep(10)
                 continue
