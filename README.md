@@ -8,19 +8,20 @@ You can edit multiple variables inside the script to fit you needs. You can also
 You need to install some python modules
 ```bash
 $ python3 -m venv venv
+$ . venv/bin/activate
 $ pip install -r requirements.txt
 ```
 or
 
 ```bash
 $ python3 -m venv venv
+$ . venv/bin/activate
 $ pip install requests
 ```
 
 ## Run checker
 As the script is reading `smtp_username` and `smpt_password` from ENV variables you need to export them
 ```bash
-$ . venv/bin/activate
 $  export SMTP_USER="username"
 $  export SMTP_PASSWORD="password"
 $ python3 vaccination-checker.py
