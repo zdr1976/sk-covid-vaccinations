@@ -1,0 +1,6799 @@
+{
+  "warnings": [],
+  "errors": [],
+  "info": [],
+  "payload": [
+    {
+      "id": "790",
+      "title": "Vakcína Nemocnica Agel Bánovce",
+      "longitude": "18.25625860",
+      "latitude": "48.72012930",
+      "city": "Bánovce nad Bebravou",
+      "street_name": "Hviezdoslavova",
+      "street_number": "23",
+      "postal_code": "95701",
+      "region_id": "8",
+      "region_name": "Trenčiansky",
+      "county_id": "33",
+      "county_name": "Bánovce nad Bebravou",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "578",
+      "title": "Vakcína FNsP Banská Bystrica (1)",
+      "longitude": "19.11723449",
+      "latitude": "48.74382603",
+      "city": "Banská Bystrica",
+      "street_name": "Námestie L. Svobodu",
+      "street_number": "1",
+      "postal_code": "97401",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "23",
+      "county_name": "Banská Bystrica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "747",
+      "title": "Vakcína FNsP Banská Bystrica (2)",
+      "longitude": "19.11723449",
+      "latitude": "48.74382603",
+      "city": "Banská Bystrica",
+      "street_name": "Námestie L. Svobodu",
+      "street_number": "1",
+      "postal_code": "97401",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "23",
+      "county_name": "Banská Bystrica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "889",
+      "title": "Vakcína Zelený sen, Banská Bystrica",
+      "longitude": "19.16405040",
+      "latitude": "48.74096306",
+      "city": "Banská Bystrica",
+      "street_name": "Cesta k nemocnici",
+      "street_number": "1/B",
+      "postal_code": "97401",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "23",
+      "county_name": "Banská Bystrica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "608",
+      "title": "Vakcína NsP Bardejov",
+      "longitude": "21.27236147",
+      "latitude": "49.28777442",
+      "city": "Bardejov",
+      "street_name": "Sv. Jakuba",
+      "street_number": "21",
+      "postal_code": "08501",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "4",
+      "county_name": "Bardejov",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2062",
+      "title": "Vakcína ASTRA Poliklinika Mlynská dolina",
+      "longitude": "17.06812753",
+      "latitude": "48.15861786",
+      "city": "Bratislava",
+      "street_name": "Staré Grunty",
+      "street_number": "56",
+      "postal_code": "84104",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "58",
+      "county_name": "Bratislava IV",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1686",
+      "title": "Vakcína Med zariadenie Mlynská Dolina, Bratislava",
+      "longitude": "17.06795981",
+      "latitude": "48.15861232",
+      "city": "Bratislava",
+      "street_name": "Staré Grunty",
+      "street_number": "56",
+      "postal_code": "84104",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "58",
+      "county_name": "Bratislava IV",
+      "age_from": null,
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "798",
+      "title": "Vakcína Sanatórium Koch, Bratislava",
+      "longitude": "17.09492833",
+      "latitude": "48.14673297",
+      "city": "Bratislava",
+      "street_name": "Partizánska",
+      "street_number": "27",
+      "postal_code": "81103",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "56",
+      "county_name": "Bratislava I",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "571",
+      "title": "Vakcína UNB Antolská, Bratislava (1)",
+      "longitude": "17.11849237",
+      "latitude": "48.10124158",
+      "city": "Bratislava",
+      "street_name": "Antolská 11 - má bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "85107",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "57",
+      "county_name": "Bratislava V",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "807",
+      "title": "Vakcína UNB Antolská, Bratislava (2)",
+      "longitude": "17.11849237",
+      "latitude": "48.10124158",
+      "city": "Bratislava",
+      "street_name": "Antolská 11 - má bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "85107",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "57",
+      "county_name": "Bratislava V",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "572",
+      "title": "Vakcína UNB Kramáre, Bratislava (1)",
+      "longitude": "17.08774935",
+      "latitude": "48.16771923",
+      "city": "Bratislava",
+      "street_name": "Limbová 5 - má bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "83101",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "59",
+      "county_name": "Bratislava III",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "806",
+      "title": "Vakcína UNB Kramáre, Bratislava (2)",
+      "longitude": "17.08774935",
+      "latitude": "48.16771923",
+      "city": "Bratislava",
+      "street_name": "Limbová 5 - má bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "83101",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "59",
+      "county_name": "Bratislava III",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "573",
+      "title": "Vakcína UNB Ružinov, Bratislava (1)",
+      "longitude": "17.15194620",
+      "latitude": "48.15541052",
+      "city": "Bratislava",
+      "street_name": "Ružinovská 6 - bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "82101",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "60",
+      "county_name": "Bratislava II",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "745",
+      "title": "Vakcína UNB Ružinov, Bratislava (2)",
+      "longitude": "17.15194620",
+      "latitude": "48.15541052",
+      "city": "Bratislava",
+      "street_name": "Ružinovská 6 - bezbariérový",
+      "street_number": "prístup",
+      "postal_code": "82101",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "60",
+      "county_name": "Bratislava II",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "title": "Vakcina ASTRA NsP Brezno",
+      "longitude": "19.62683231",
+      "latitude": "48.80631597",
+      "city": "Brezno",
+      "street_name": "Ladislava Novomeského (štadión L. Horského)",
+      "street_number": "2157/34",
+      "postal_code": "97701",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "18",
+      "county_name": "Brezno",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "827",
+      "title": "Vakcína Nemocnica Dolný Kubín",
+      "longitude": "19.30253443",
+      "latitude": "49.21388057",
+      "city": "Dolný Kubín",
+      "street_name": "Nemocničná",
+      "street_number": "1944",
+      "postal_code": "02601",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "68",
+      "county_name": "Dolný Kubín",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "570",
+      "title": "Vakcína Nemocnica Humenné",
+      "longitude": "21.89922460",
+      "latitude": "48.93406081",
+      "city": "Humenné",
+      "street_name": "Nemocničná",
+      "street_number": "7",
+      "postal_code": "06601",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "9",
+      "county_name": "Humenné",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1632",
+      "title": "Vakcina ASTRA Nemocnica Komárno",
+      "longitude": "18.12610238",
+      "latitude": "47.76461336",
+      "city": "Komárno",
+      "street_name": "Mederečská",
+      "street_number": "39",
+      "postal_code": "94505",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "26",
+      "county_name": "Komárno",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "545",
+      "title": "Vakcína Nemocnica Komárno (1)",
+      "longitude": "18.12610238",
+      "latitude": "47.76461336",
+      "city": "Komárno",
+      "street_name": "Mederečská",
+      "street_number": "39",
+      "postal_code": "94505",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "26",
+      "county_name": "Komárno",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "763",
+      "title": "Vakcína Nemocnica Komárno (2)",
+      "longitude": "18.12610238",
+      "latitude": "47.76461336",
+      "city": "Komárno",
+      "street_name": "Mederečská",
+      "street_number": "39",
+      "postal_code": "94505",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "26",
+      "county_name": "Komárno",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1906",
+      "title": "Vakcína ASTRA SOŠ informač technológií Košice 2",
+      "longitude": "21.24973468",
+      "latitude": "48.70361791",
+      "city": "Košice",
+      "street_name": "Ostrovského",
+      "street_number": "1",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1907",
+      "title": "Vakcína ASTRA SOŠ informač technológií Košice 3",
+      "longitude": "21.24973468",
+      "latitude": "48.70361791",
+      "city": "Košice",
+      "street_name": "Ostrovského",
+      "street_number": "1",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2061",
+      "title": "Vakcína ASTRA SOŠ informač technológií Košice 4",
+      "longitude": "21.24973468",
+      "latitude": "48.70361791",
+      "city": "Košice",
+      "street_name": "Ostrovského",
+      "street_number": "1",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "598",
+      "title": "Vakcína UNLP Košice (1)",
+      "longitude": "21.25740696",
+      "latitude": "48.70791482",
+      "city": "Košice",
+      "street_name": "Rastislavova",
+      "street_number": "785/43",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "746",
+      "title": "Vakcína UNLP Košice (2)",
+      "longitude": "21.25740696",
+      "latitude": "48.70791482",
+      "city": "Košice",
+      "street_name": "Rastislavova",
+      "street_number": "785/43",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "788",
+      "title": "Vakcína Železničné zdravotníctvo Košice 1",
+      "longitude": "21.25909351",
+      "latitude": "48.72815111",
+      "city": "Košice",
+      "street_name": "Masarykova",
+      "street_number": "9",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "789",
+      "title": "Vakcína Železničné zdravotníctvo Košice 2",
+      "longitude": "21.25909351",
+      "latitude": "48.72815111",
+      "city": "Košice",
+      "street_name": "Masarykova",
+      "street_number": "9",
+      "postal_code": "04001",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "77",
+      "county_name": "Košice I",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1633",
+      "title": "Vakcina ASTRA Nemocnica Levice 1",
+      "longitude": "18.61471893",
+      "latitude": "48.22305929",
+      "city": "Levice",
+      "street_name": "SNP",
+      "street_number": "19",
+      "postal_code": "93405",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "28",
+      "county_name": "Levice",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1665",
+      "title": "Vakcina ASTRA Nemocnica Levice 2",
+      "longitude": "18.61471893",
+      "latitude": "48.22305929",
+      "city": "Levice",
+      "street_name": "SNP",
+      "street_number": "19",
+      "postal_code": "93405",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "28",
+      "county_name": "Levice",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "title": "Vakcína Nemocnica Levice",
+      "longitude": "18.61471893",
+      "latitude": "48.22305929",
+      "city": "Levice",
+      "street_name": "SNP",
+      "street_number": "19",
+      "postal_code": "93405",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "28",
+      "county_name": "Levice",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "864",
+      "title": "Vakcína AGEL Levoča",
+      "longitude": "20.59401826",
+      "latitude": "49.02535754",
+      "city": "Levoča",
+      "street_name": "Probstnerova cesta",
+      "street_number": "2/3082",
+      "postal_code": "05401",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "29",
+      "county_name": "Levoča",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "607",
+      "title": "Vakcína NsP Liptovský Mikuláš",
+      "longitude": "19.59901223",
+      "latitude": "49.08491845",
+      "city": "Liptovský Mikuláš",
+      "street_name": "Palučanská",
+      "street_number": "25",
+      "postal_code": "03101",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "44",
+      "county_name": "Liptovský Mikuláš",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "577",
+      "title": "Vakcína VNsP Lučenec",
+      "longitude": "19.65938002",
+      "latitude": "48.32836031",
+      "city": "Lučenec",
+      "street_name": "Námestie republiky",
+      "street_number": "15",
+      "postal_code": "98401",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "1",
+      "county_name": "Lučenec",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "826",
+      "title": "Vakcína Nemocnica Malacky",
+      "longitude": "17.03386814",
+      "latitude": "48.44119373",
+      "city": "Malacky",
+      "street_name": "Duklianskych hrdinov",
+      "street_number": "34",
+      "postal_code": "90101",
+      "region_id": "1",
+      "region_name": "Bratislavský",
+      "county_id": "54",
+      "county_name": "Malacky",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "604",
+      "title": "Vakcína Nemocnica Michalovce",
+      "longitude": "21.91451280",
+      "latitude": "48.75685849",
+      "city": "Michalovce",
+      "street_name": "Duklianska",
+      "street_number": "6",
+      "postal_code": "07101",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "25",
+      "county_name": "Michalovce",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1448",
+      "title": "Vakcína NsP Myjava",
+      "longitude": "17.56099984",
+      "latitude": "48.76338219",
+      "city": "Myjava",
+      "street_name": "Staromyjavská",
+      "street_number": "59",
+      "postal_code": "90701",
+      "region_id": "8",
+      "region_name": "Trenčiansky",
+      "county_id": "63",
+      "county_name": "Myjava",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2050",
+      "title": "Vakcína ASTRA Oravská poliklinika Námestovo",
+      "longitude": "19.47641381",
+      "latitude": "49.40577124",
+      "city": "Námestovo",
+      "street_name": null,
+      "street_number": "62/30",
+      "postal_code": "02901",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "16",
+      "county_name": "Námestovo",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2073",
+      "title": "Vakcína ASTRA Medicínske centrum Nitra 2",
+      "longitude": "18.11047751",
+      "latitude": "48.30843316",
+      "city": "Nitra",
+      "street_name": "Fatranská",
+      "street_number": "5",
+      "postal_code": "94901",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "10",
+      "county_name": "Nitra",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "548",
+      "title": "Vakcína FN Nitra (1)",
+      "longitude": "18.08722904",
+      "latitude": "48.30223664",
+      "city": "Nitra",
+      "street_name": "Špitálska",
+      "street_number": "6",
+      "postal_code": "94901",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "10",
+      "county_name": "Nitra",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "741",
+      "title": "Vakcína FN Nitra (2)",
+      "longitude": "18.08722904",
+      "latitude": "48.30223664",
+      "city": "Nitra",
+      "street_name": "Špitálska",
+      "street_number": "6",
+      "postal_code": "94901",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "10",
+      "county_name": "Nitra",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "754",
+      "title": "Vakcína FN Nitra (3)",
+      "longitude": "18.08722904",
+      "latitude": "48.30223664",
+      "city": "Nitra",
+      "street_name": "Špitálska",
+      "street_number": "6",
+      "postal_code": "94901",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "10",
+      "county_name": "Nitra",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2072",
+      "title": "Vakcína ASTRA Medicínske centrum Nitra 1",
+      "longitude": "18.11047751",
+      "latitude": "48.30843316",
+      "city": "Nitra-Chrenová",
+      "street_name": "Fatranská",
+      "street_number": "5",
+      "postal_code": "94901",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "10",
+      "county_name": "Nitra",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "800",
+      "title": "Vakcína Poliklinika Piešťany (2)",
+      "longitude": "17.81366446",
+      "latitude": "48.57465324",
+      "city": "Piešťany",
+      "street_name": "Rekreačná",
+      "street_number": "2",
+      "postal_code": "92101",
+      "region_id": "2",
+      "region_name": "Trnavský",
+      "county_id": "32",
+      "county_name": "Piešťany",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2071",
+      "title": "Vakcína ASTRA Nemocnica Poprad",
+      "longitude": "20.30345491",
+      "latitude": "49.05200528",
+      "city": "Poprad",
+      "street_name": "Banícka",
+      "street_number": "28",
+      "postal_code": "05801",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "36",
+      "county_name": "Poprad",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "576",
+      "title": "Vakcína Nemocnica Poprad (1)",
+      "longitude": "20.30345491",
+      "latitude": "49.05200528",
+      "city": "Poprad",
+      "street_name": "Banícka",
+      "street_number": "28",
+      "postal_code": null,
+      "region_id": null,
+      "region_name": null,
+      "county_id": null,
+      "county_name": null,
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "title": "Vakcína Nemocnica Poprad (2)",
+      "longitude": "20.30345491",
+      "latitude": "49.05200528",
+      "city": "Poprad",
+      "street_name": "Banícka",
+      "street_number": "28",
+      "postal_code": null,
+      "region_id": null,
+      "region_name": null,
+      "county_id": null,
+      "county_name": null,
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "774",
+      "title": "Vakcína NsP Považská Bystrica (1)",
+      "longitude": "18.45795300",
+      "latitude": "49.10635100",
+      "city": "Považská Bystrica",
+      "street_name": "Nemocničná",
+      "street_number": "986",
+      "postal_code": "01701",
+      "region_id": "8",
+      "region_name": "Trenčiansky",
+      "county_id": "50",
+      "county_name": "Považská Bystrica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "775",
+      "title": "Vakcína NsP Považská Bystrica (2)",
+      "longitude": "18.45799578",
+      "latitude": "49.10635100",
+      "city": "Považská Bystrica",
+      "street_name": "Nemocničná",
+      "street_number": "986",
+      "postal_code": "01701",
+      "region_id": "8",
+      "region_name": "Trenčiansky",
+      "county_id": "50",
+      "county_name": "Považská Bystrica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "575",
+      "title": "Vakcína FNsP Reimana Prešov",
+      "longitude": "21.25371895",
+      "latitude": "48.99655613",
+      "city": "Prešov",
+      "street_name": "Jana Holleho",
+      "street_number": "5898/14",
+      "postal_code": "08001",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "7",
+      "county_name": "Prešov",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1595",
+      "title": "Vakcína Poliklinika Sekčov, Prešov 2",
+      "longitude": "21.26693880",
+      "latitude": "48.99431449",
+      "city": "Prešov",
+      "street_name": "Jurkovičova",
+      "street_number": "19",
+      "postal_code": "08001",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "7",
+      "county_name": "Prešov",
+      "age_from": null,
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1620",
+      "title": "Vakcina ASTRA VN Rimavská sobota",
+      "longitude": "20.01269604",
+      "latitude": "48.38177489",
+      "city": "Rimavská Sobota",
+      "street_name": "Šrobárová",
+      "street_number": "1",
+      "postal_code": "97901",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "2",
+      "county_name": "Rimavská Sobota",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "599",
+      "title": "Vakcína NsP Rožňava",
+      "longitude": "20.53387111",
+      "latitude": "48.66527883",
+      "city": "Rožňava",
+      "street_name": "Špitálska",
+      "street_number": "1",
+      "postal_code": "04801",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "13",
+      "county_name": "Rožňava",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "767",
+      "title": "Vakcína UV nemocnica SNP Ružomberok (2)",
+      "longitude": "19.30155790",
+      "latitude": "49.08532362",
+      "city": "Ružomberok",
+      "street_name": "COVID pavilón (bývalá poliklinika), Považská",
+      "street_number": "12",
+      "postal_code": "03401",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "46",
+      "county_name": "Ružomberok",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "552",
+      "title": "Vakcína FNsP Skalica (1)",
+      "longitude": "17.22706808",
+      "latitude": "48.84409207",
+      "city": "Skalica",
+      "street_name": "Koreszkova",
+      "street_number": "7",
+      "postal_code": "90901",
+      "region_id": "2",
+      "region_name": "Trnavský",
+      "county_id": "66",
+      "county_name": "Skalica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "773",
+      "title": "Vakcína FNsP Skalica (2)",
+      "longitude": "17.22706808",
+      "latitude": "48.84409207",
+      "city": "Skalica",
+      "street_name": "Koreszkova",
+      "street_number": "7",
+      "postal_code": "90901",
+      "region_id": "2",
+      "region_name": "Trnavský",
+      "county_id": "66",
+      "county_name": "Skalica",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "796",
+      "title": "Vakcína Ľubovnianska nemocnica (1)",
+      "longitude": "20.68903300",
+      "latitude": "49.29779800",
+      "city": "Stará Ľubovňa",
+      "street_name": "Obrancov mieru",
+      "street_number": "3",
+      "postal_code": "06401",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "71",
+      "county_name": "Stará Ľubovňa",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2064",
+      "title": "Vakcína Nemocnica AGEL Košice Šaca",
+      "longitude": "21.17171562",
+      "latitude": "48.64279142",
+      "city": "Šaca",
+      "street_name": "Lúčna",
+      "street_number": "57",
+      "postal_code": "04015",
+      "region_id": "7",
+      "region_name": "Košický",
+      "county_id": "80",
+      "county_name": "Košice II",
+      "age_from": null,
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "783",
+      "title": "Vakcina Nemocnica Topoľčany",
+      "longitude": "18.16798623",
+      "latitude": "48.55234492",
+      "city": "Topoľčany",
+      "street_name": "Pavlovová",
+      "street_number": "17",
+      "postal_code": "95501",
+      "region_id": "3",
+      "region_name": "Nitriansky",
+      "county_id": "12",
+      "county_name": "Topoľčany",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "918",
+      "title": "Vakcína FN Trenčín (1)",
+      "longitude": "18.03178960",
+      "latitude": "48.88454416",
+      "city": "Trenčín",
+      "street_name": "Legionárska",
+      "street_number": "28",
+      "postal_code": "91101",
+      "region_id": "8",
+      "region_name": "Trenčiansky",
+      "county_id": "8",
+      "county_name": "Trenčín",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "546",
+      "title": "Vakcína FN Trnava 1 - Starý areál",
+      "longitude": "17.58832477",
+      "latitude": "48.36856870",
+      "city": "Trnava",
+      "street_name": "A. Žarnova",
+      "street_number": "11",
+      "postal_code": null,
+      "region_id": null,
+      "region_name": null,
+      "county_id": null,
+      "county_name": null,
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "781",
+      "title": "Vakcína FN Trnava 2 - Nový areál",
+      "longitude": "17.58832477",
+      "latitude": "48.36856870",
+      "city": "Trnava",
+      "street_name": "A. Žarnova",
+      "street_number": "11",
+      "postal_code": "91702",
+      "region_id": "2",
+      "region_name": "Trnavský",
+      "county_id": "47",
+      "county_name": "Trnava",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "819",
+      "title": "Vakcína NsP Trstená",
+      "longitude": "19.60244993",
+      "latitude": "49.35883548",
+      "city": "Trstená",
+      "street_name": "Mieru",
+      "street_number": "549/16",
+      "postal_code": "02801",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "65",
+      "county_name": "Tvrdošín",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "820",
+      "title": "Vakcína NsP Veľký Krtíš",
+      "longitude": "19.34935044",
+      "latitude": "48.21111957",
+      "city": "Veľký Krtíš",
+      "street_name": "Nemocničná",
+      "street_number": "756",
+      "postal_code": "99001",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "30",
+      "county_name": "Veľký Krtíš",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "780",
+      "title": "Vakcína Vranovská nemocnica",
+      "longitude": "21.69159081",
+      "latitude": "48.88557980",
+      "city": "Vranov nad Topľou",
+      "street_name": "M. R. Štefánika",
+      "street_number": "187/177B",
+      "postal_code": "09301",
+      "region_id": "6",
+      "region_name": "Prešovský",
+      "county_id": "15",
+      "county_name": "Vranov nad Topľou",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "812",
+      "title": "Vakcína AGEL Zvolen",
+      "longitude": "19.13000300",
+      "latitude": "48.58055620",
+      "city": "Zvolen",
+      "street_name": "Kuzmányho nábrežie",
+      "street_number": "28",
+      "postal_code": "96001",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "17",
+      "county_name": "Zvolen",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2070",
+      "title": "Vakcína ASTRA AGEL Zvolen",
+      "longitude": "19.11059001",
+      "latitude": "48.57233436",
+      "city": "Zvolen",
+      "street_name": "Hronská cesta (jedáleň Doprastavu)",
+      "street_number": "1",
+      "postal_code": "96001",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "17",
+      "county_name": "Zvolen",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "1627",
+      "title": "Vakcina ASTRA VN Žiar nad Hronom",
+      "longitude": "18.84898768",
+      "latitude": "48.59497340",
+      "city": "Žiar nad Hronom",
+      "street_name": "Sládkovičova",
+      "street_number": "11",
+      "postal_code": "96501",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "34",
+      "county_name": "Žiar nad Hronom",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "777",
+      "title": "Vakcína Všeobecná nemocnica Žiar nad Hronom",
+      "longitude": "18.84257736",
+      "latitude": "48.59044558",
+      "city": "Žiar nad Hronom",
+      "street_name": "Sládkovičova",
+      "street_number": "11",
+      "postal_code": "96501",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "34",
+      "county_name": "Žiar nad Hronom",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "803",
+      "title": "Vakcína Všeobecná nemocnica Žiar nad Hronom (2)",
+      "longitude": "18.84257736",
+      "latitude": "48.59044558",
+      "city": "Žiar nad Hronom",
+      "street_name": "Sládkovičova",
+      "street_number": "11",
+      "postal_code": "96501",
+      "region_id": "5",
+      "region_name": "Banskobystrický",
+      "county_id": "34",
+      "county_name": "Žiar nad Hronom",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "2052",
+      "title": "Vakcína ASTRA MEDIVASA Žilina",
+      "longitude": "18.74448517",
+      "latitude": "49.22046926",
+      "city": "Žilina",
+      "street_name": null,
+      "street_number": "8187",
+      "postal_code": "01001",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "38",
+      "county_name": "Žilina",
+      "age_from": "18",
+      "age_to": "69",
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "882",
+      "title": "Vakcína FNsP Žilina (1)",
+      "longitude": "18.74574063",
+      "latitude": "49.21883148",
+      "city": "Žilina",
+      "street_name": "ul.Vojtecha Spanyola",
+      "street_number": "43",
+      "postal_code": "01001",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "38",
+      "county_name": "Žilina",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "884",
+      "title": "Vakcína FNsP Žilina (2)",
+      "longitude": "18.74574063",
+      "latitude": "49.21883148",
+      "city": "Žilina",
+      "street_name": "ul.Vojtecha Spanyola",
+      "street_number": "43",
+      "postal_code": "01001",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "38",
+      "county_name": "Žilina",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    },
+    {
+      "id": "883",
+      "title": "Vakcína FNsP Žilina (3)",
+      "longitude": "18.74574063",
+      "latitude": "49.21883148",
+      "city": "Žilina",
+      "street_name": "ul.Vojtecha Spanyola",
+      "street_number": "43",
+      "postal_code": "01001",
+      "region_id": "4",
+      "region_name": "Žilinský",
+      "county_id": "38",
+      "county_name": "Žilina",
+      "age_from": "70",
+      "age_to": null,
+      "calendar_data": [
+        {
+          "c_date": "2021-03-11",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-12",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-13",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-14",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-15",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-16",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-17",
+          "is_closed": 0,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-18",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-19",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-20",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-21",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-22",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-23",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-24",
+          "is_closed": 1,
+          "free_capacity": 0
+        },
+        {
+          "c_date": "2021-03-25",
+          "is_closed": 1,
+          "free_capacity": 0
+        }
+      ]
+    }
+  ],
+  "warning_count": 0,
+  "error_count": 0,
+  "payload_count": 73
+}
