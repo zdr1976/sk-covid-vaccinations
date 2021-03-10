@@ -102,7 +102,7 @@ def main():
             response = requests.get(URL, headers={'Accept': 'application/json'}) # noqa
         except requests.exceptions.ConnectionError as e:
             print(f'[E] Connection error: {e}')
-            time.sleep(10)
+            time.sleep(SLEEP)
             continue
 
         if response.status_code == 200:
@@ -111,7 +111,7 @@ def main():
                 data = response.json()
             except JSONDecodeError as e:
                 print(f'[E] JSON parsing error: {e}')
-                time.sleep(10)
+                time.sleep(SLEEP)
                 continue
             # Vaccination centers
             vc = data['payload']
