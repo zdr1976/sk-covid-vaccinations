@@ -99,7 +99,7 @@ def main():
         regions = {}
 
         try:
-            response = requests.get(URL, headers={'Accept': 'application/json'})
+            response = requests.get(URL, headers={'Accept': 'application/json'}) # noqa
         except requests.exceptions.ConnectionError as e:
             print(f'[E] Connection error: {e}')
             time.sleep(10)
@@ -116,20 +116,20 @@ def main():
             # Vaccination centers
             vc = data['payload']
             # Key variables from payload
-            age_from = None
-            age_to = None
-            region_id = None
+            # age_from = None
+            # age_to = None
+            # region_id = None
             region_name = None
             calendar = None
 
-            for v in vc:
+            for c in vc:
                 free_slots = 0
                 try:
-                    age_from = v['age_from']
-                    age_to = v['age_to']
-                    region_id = v['region_id']
-                    region_name = v['region_name']
-                    calendar = v['calendar_data']
+                    # age_from = c['age_from']
+                    # age_to = c['age_to']
+                    # region_id = c['region_id']
+                    region_name = c['region_name']
+                    calendar = c['calendar_data']
                 except ValueError:
                     print('[E] Requested keys are missing !!!')
                     # Try next vaccination center
@@ -146,11 +146,15 @@ def main():
                 except KeyError:
                     regions['Nezaradený' if not region_name else region_name] = free_slots # noqa
 
+            # Sort regions by name
+            regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+
             if notify_and_log:
                 regions_available = {k: v for k, v in regions.items() if v > 0}
                 print('[I] Free slots available =>',
                         ''.join(f'{key}: {val}, ' for key, val in regions_available.items())[:-2]) # noqa
-                # Only sent notfication when watched regions have some free slots
+                # Only sent notfication when watched regions have some
+                # free slots
                 if regions_available.keys() & REGIONS:
                     for k, v in regions_available.items():
                         if k in REGIONS and v >= THRESHOLD and NOTIFICATIONS:
