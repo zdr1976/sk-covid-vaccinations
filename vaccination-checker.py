@@ -65,28 +65,20 @@ def send_notifications(regions):
         mail.sendmail(SENDER, RECIPIENTS, msg.as_string())
     except socket.gaierror:
         print(f"[E] - Unable to connect to SMTP server '{SMTP_SERVER}'.")
-        sys.exit(os.EX_CONFIG)
     except socket.timeout:
         print(f"[E] - Connection timeout for '{SMTP_SERVER}:{SMTP_PORT}'.") # noqa
-        sys.exit(os.EX_CONFIG)
     except smtplib.SMTPHeloError:
         print("[E] - The server didn’t reply properly to the 'HELO' greeting.") # noqa
-        sys.exit(os.EX_DATAERR)
     except smtplib.SMTPNotSupportedError:
         print("[E] - The server does not support this extension or command.") # noqa
-        sys.exit(os.EX_CONFIG)
     except smtplib.SMTPAuthenticationError:
         print("[E] - The server didn’t accept the 'username/password' combination.") # noqa
-        sys.exit(os.EX_CONFIG)
     except smtplib.SMTPException:
         print("[E] - No suitable authentication method was found.")
-        sys.exit(os.EX_NOUSER)
     except AttributeError as e:
         print(f"[E] - Something wrong with the 'msq' object. {e}")
-        sys.exit(os.EX_DATAERR)
     except RuntimeError:
         print("[E] - SSL/TLS support is not available to your Python interpreter.") # noqa
-        sys.exit(os.EX_OSERR)
     else:
         mail.quit()
 
