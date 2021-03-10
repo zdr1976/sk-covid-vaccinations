@@ -48,7 +48,7 @@ def send_notifications(regions):
     msg = MIMEMultipart()
     msg['Subject'] = 'Vaccinations - Free capacities by region'
     msg['From'] = SENDER
-    msg['To'] = RECIPIENTS
+    msg['To'] = ', '.join(RECIPIENTS)
 
     body = ''.join(f'{key}: {val}\n' for key, val in regions.items())
     body += '\nhttps://www.old.korona.gov.sk/covid-19-vaccination-form.php'
