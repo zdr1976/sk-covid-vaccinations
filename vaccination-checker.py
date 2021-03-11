@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import logging
 import os
 import smtplib
 import socket
@@ -9,6 +10,7 @@ from email.mime.text import MIMEText
 from json.decoder import JSONDecodeError
 
 import requests
+from requests.exceptions import ConnectionError, Timeout
 
 URL = 'https://mojeezdravie.nczisk.sk/api/v1/web/get_all_drivein_times_vacc'
 
@@ -23,8 +25,11 @@ SENDER = 'no_replay@example.com'
 # You can set more recipients
 RECIPIENTS = ['john.doe@example.com', 'john.smith@example.com']
 
-# Number of second to sleep before next check
+
+# Number of seconds to sleep before next check
 SLEEP = 10
+# Number of seconds to wait for response
+REQUEST_TIMEOUT = 5
 # Notify only if there are free slot equal or over desired threshold
 THRESHOLD = 10
 # Awailable regions to check:
@@ -41,6 +46,17 @@ THRESHOLD = 10
 REGIONS = ['Bratislavský', 'Nezaradený']
 # In case you want to receive mail notifications set to True
 NOTIFICATIONS = False
+
+# Logger config
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s [%(levelname).1s] %(message)s',
+    datefmt='%d-%b-%Y %H:%M:%S',
+    handlers=[
+        logging.FileHandler("app.log"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
 
 
 def send_notifications(regions):
@@ -64,21 +80,21 @@ def send_notifications(regions):
         mail.login(SMTP_USERNAME, SMTP_PASSWORD)
         mail.sendmail(SENDER, RECIPIENTS, msg.as_string())
     except socket.gaierror:
-        print(f"[E] - Unable to connect to SMTP server '{SMTP_SERVER}'.")
+        logging.error(f"Unable to connect to SMTP server '{SMTP_SERVER}'.")
     except socket.timeout:
-        print(f"[E] - Connection timeout for '{SMTP_SERVER}:{SMTP_PORT}'.") # noqa
+        logging.error(f"Connection timeout for '{SMTP_SERVER}:{SMTP_PORT}'.") # noqa
     except smtplib.SMTPHeloError:
-        print("[E] - The server didn’t reply properly to the 'HELO' greeting.") # noqa
+        logging.error("The server didn’t reply properly to the 'HELO' greeting.") # noqa
     except smtplib.SMTPNotSupportedError:
-        print("[E] - The server does not support this extension or command.") # noqa
+        logging.error("The server does not support this extension or command.") # noqa
     except smtplib.SMTPAuthenticationError:
-        print("[E] - The server didn’t accept the 'username/password' combination.") # noqa
+        logging.error("The server didn’t accept the 'username/password' combination.") # noqa
     except smtplib.SMTPException:
-        print("[E] - No suitable authentication method was found.")
+        logging.error("No suitable authentication method was found.")
     except AttributeError as e:
-        print(f"[E] - Something wrong with the 'msq' object. {e}")
+        logging.error(f"Something wrong with the 'msq' object. {e}")
     except RuntimeError:
-        print("[E] - SSL/TLS support is not available to your Python interpreter.") # noqa
+        logging.error("SSL/TLS support is not available to your Python interpreter.") # noqa
     else:
         mail.quit()
 
@@ -87,30 +103,38 @@ def main():
     """Get free slots from vaccination centers."""
     # Check SMTP username
     if not SMTP_USERNAME and NOTIFICATIONS:
-        print("Can't find 'SMTP_USERNAME' in ENV variables.")
+        logging.error("Can't find 'SMTP_USERNAME' in ENV variables.")
         sys.exit(os.EX_USAGE)
 
     # Check SMTP password
     if not SMTP_PASSWORD and NOTIFICATIONS:
-        print("Can't find 'SMTP_PASSWORD' in ENV variables.")
+        logging.error("Can't find 'SMTP_PASSWORD' in ENV variables.")
         sys.exit(os.EX_USAGE)
 
     while True:
         regions = {}
 
         try:
-            response = requests.get(URL, headers={'Accept': 'application/json'}) # noqa
-        except requests.exceptions.ConnectionError as e:
-            print(f'[E] Connection error: {e}')
+            response = requests.get(
+                    URL,
+                    headers={'Accept': 'application/json'},
+                    timeout=REQUEST_TIMEOUT
+                )
+        except ConnectionError as e:
+            logging.error(f'Connection error: {e}')
             time.sleep(SLEEP)
+            continue
+        except Timeout as e:
+            logging.error(f'Connection time out: {e}')
+            time.sleep(SLEEP - REQUEST_TIMEOUT)
             continue
 
         if response.status_code == 200:
-            notify_and_log = False
+            free_capacity = False
             try:
                 data = response.json()
             except JSONDecodeError as e:
-                print(f'[E] JSON parsing error: {e}')
+                logging.error(f'JSON parsing error: {e}')
                 time.sleep(SLEEP)
                 continue
             # Vaccination centers
@@ -131,14 +155,14 @@ def main():
                     region_name = c['region_name']
                     calendar = c['calendar_data']
                 except ValueError:
-                    print('[E] Requested keys are missing !!!')
+                    logging.error('Requested keys are missing !!!')
                     # Try next vaccination center
                     continue
 
                 for day in calendar:
                     if day['free_capacity'] > 0:
                         free_slots += day['free_capacity']
-                        notify_and_log = True
+                        free_capacity = True
 
                 # Add free slots to region
                 try:
@@ -149,22 +173,22 @@ def main():
             # Sort regions by name
             regions = dict(sorted(regions.items(), key=lambda item: item[0]))
 
-            if notify_and_log:
+            if free_capacity:
                 regions_available = {k: v for k, v in regions.items() if v > 0}
-                print('[I] Free slots available =>',
-                        ''.join(f'{key}: {val}, ' for key, val in regions_available.items())[:-2]) # noqa
+                watched_regions_available = {}
+                logging.info('Free slots available => {}'.format(''.join(f'{key}: {val}, ' for key, val in regions_available.items())[:-2])) # noqa
                 # Only sent notfication when watched regions have some
                 # free slots
-                if regions_available.keys() & REGIONS:
-                    for k, v in regions_available.items():
-                        if k in REGIONS and v >= THRESHOLD and NOTIFICATIONS:
-                            send_notifications(regions_available)
+                for k, v in regions_available.items():
+                    if k in REGIONS and v >= THRESHOLD:
+                        watched_regions_available[k] = v
+                if NOTIFICATIONS and watched_regions_available:
+                    send_notifications(watched_regions_available)
             else:
-                print('[I] No free slots available =>',
-                        ''[:-1].join(f'{key}: {val}, ' for key, val in regions.items())[:-2]) # noqa
+                logging.info('No free slots available => {}'.format(''.join(f'{key}: {val}, ' for key, val in regions.items())[:-2])) # noqa
 
         else:
-            print(f'[E] Response code: {response.status_code}f')
+            logging.error(f'Response code: {response.status_code}')
 
         time.sleep(SLEEP)
 
